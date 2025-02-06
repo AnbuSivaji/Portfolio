@@ -39,8 +39,7 @@ const Contact = () => {
         <div className="contact-left">
           <h1>Let's talk</h1>
           <p>
-            Iam a fresher any qustions for not the any of the question not
-            asking for me.
+            I'm a Fresher if  do you have any doubts ask me in  the message box... Thank You!.  
           </p>
 
           <div className="contact-details">
